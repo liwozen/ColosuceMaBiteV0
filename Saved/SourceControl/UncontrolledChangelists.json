@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/yoann/OneDrive/Documents/GitHub/ColosuceMaBiteV0/Content/Personnage/IA_Enemie/IA_Enemie.uasset",
+				"C:/Users/yoann/OneDrive/Documents/GitHub/ColosuceMaBiteV0/Content/Scene/Yoann_Mechanic.umap",
+				"C:/Users/yoann/OneDrive/Documents/GitHub/ColosuceMaBiteV0/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/yoann/OneDrive/Documents/GitHub/ColosuceMaBiteV0/Content/Personnage/IA_Enemie/IA_attack.uasset",
+				"C:/Users/yoann/OneDrive/Documents/GitHub/ColosuceMaBiteV0/Content/Personnage/IA_Enemie/IA_walk.uasset",
 				"C:/Users/chale/OneDrive/Documents/Unreal Projects/ColosuceMaBite/ColosuceMaBiteV0/Content/Scene/Yoann_Mechanic.umap",
 				"C:/Users/chale/OneDrive/Documents/Unreal Projects/ColosuceMaBite/ColosuceMaBiteV0/Content/Scene/Kevin_Mechanic.umap",
 				"C:/Users/chale/OneDrive/Documents/Unreal Projects/ColosuceMaBite/ColosuceMaBiteV0/Content/Personnage/Personnage_joueur/Vanguard_By_T__Choonyung.uasset",
